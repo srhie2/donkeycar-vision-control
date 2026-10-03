@@ -13,9 +13,13 @@ The full class repository contains the complete DonkeyCar framework, deployment 
 
 These are course-project results, not formal benchmarks. I will add the original driving clips below when I finish organizing them.
 
-> **VIDEO TO UPLOAD HERE — single-line following:** add `media/line-following-three-laps.gif`, or paste a full-video link here.
+> ### Single-line following — three consecutive laps
 
-> **VIDEO TO UPLOAD HERE — lane following:** add `media/lane-following-one-lap.gif`, or paste a full-video link here.
+[▶ Watch driving video](https://drive.google.com/file/d/1GkL3dsHEKlm3UNOgTWRxHftuGGPT9M7J/view?usp=sharing)
+
+> ### Lane following — one full lap
+
+[▶ Watch driving video](https://drive.google.com/file/d/1LPARtrPd4J6LUpSnXVZjDra-EsLTS1lM/view?usp=sharing)
 
 ## My role
 
